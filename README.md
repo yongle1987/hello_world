@@ -1,2 +1,4 @@
 # hello_world
-My first project in GitHub
+
+Yongle here, I like Java and Python.
+I will keep learning.
